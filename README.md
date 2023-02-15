@@ -1,4 +1,9 @@
 # AE_3_XSLT_XPATH_grupo_3
+
+-English: Using XSLT and XPATH, create a web page in HTML and CSS in which all the information from the XML is reflected.
+
+Mediante XSLT y XPATH, crear una página web en HTML y CSS en la que se plasme toda la información del XML.
+
 Este es una tarea realizada para el ciclo formativo grado superior de Desarrollo de Aplicaciones Multiplataforma.
 
 Enunciado
